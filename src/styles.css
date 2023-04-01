@@ -1,0 +1,22 @@
+body {
+  background-color: tan;
+}
+
+.App {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+button {
+  margin-bottom: 1rem;
+  background-color: orange;
+  color: #fff;
+  border-radius: 50%;
+  border-color: gray;
+  font-size: 15pt;
+  padding: 15px;
+}
+
+img {
+  height: 55vh;
+}
